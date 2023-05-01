@@ -1,0 +1,6 @@
+export DATABASE_HOST=localhost
+export DATABASE_PORT=3306
+export DATABASE_USER=root
+export DATABASE_PASSWORD=root
+export DATABASE_NAME=go-casbin-example
+export DATABASE_MIGRATION_FILE_PATH=file://internal/database/mysql/migrations
